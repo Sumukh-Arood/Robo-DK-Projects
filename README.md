@@ -8,15 +8,15 @@ This repository contains two RoboDK simulation projects showcasing robotic opera
 - **Description**: A simulation of a robotic arm performing pick-and-place operations.
 - **Setup**:
   ![Pick and Place Setup](pick_and_place_setup.png)
-- **Video**: [Pick and Place Operation.mp4](pick_and_place_operation.mp4)
-- **File**: [Pick and Place.rdk](pick_and_place.rdk)
+- **Video**: [pick_and_place_operation.mp4](pick_and_place_operation.mp4)
+- **File**: [pick_and_place.rdk](pick_and_place.rdk)
 
 ### 2. **Drilling**
 - **Description**: A simulation of a robotic arm performing drilling operations on predefined positions.
 - **Setup**:
   ![Drilling Setup](drilling_setup.png)
-- **Video**: [Drilling Operation](drilling_operation.mp4)
-- **Video**: [Drilling Operation](drilling.rdk)
+- **Video**: [drilling_operation.mp4](drilling_operation.mp4)
+- **Video**: [drilling.rdk](drilling.rdk)
 
 ## How to Run
 
